@@ -1,0 +1,4 @@
+text
+pytest
+pytest-cov
+ruff
